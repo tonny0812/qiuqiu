@@ -6,331 +6,53 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fab5110f-1c88-4f7e-90b4-92efcc4e9c9f" name="Default" comment="websocket">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/alignicon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/alignicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/file-icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/file-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/background/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/background/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/images/charts0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/images/charts1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/images/charts2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/images/charts3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/images/charts4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/images/charts5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/bface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/cface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/fface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/jxface2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/tface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/wface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/images/yface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/alignicon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/addimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/brush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/delimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/delimgH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/emptyH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/eraser.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/redoH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/scale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/scaleH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/size.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/images/undoH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/table/dragicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/images/pre0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/images/pre1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/images/pre2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/images/pre3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/images/pre4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/center_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/file-icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/file-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/left_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/none_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/right_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/wordimage/imageUploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/addimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/alldeletebtnupskin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/deletedisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/deleteenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/listbackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/rotateleftdisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/rotateleftenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/rotaterightdisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/rotaterightenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/zh-cn/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/zh-cn/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/zh-cn/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/zh-cn/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/button-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/cancelbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/charts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/cursor_h.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/cursor_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/cursor_v.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/cursor_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/dialog-title-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/filescan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/highlighted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/icons-all.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/loaderror.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/lock.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/pagebreak.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/scale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/sortable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/sparator_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/table-cell-align.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/tangram-colorpicker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/toolbar_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/unhighlighted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/videologo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/word.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/images/wordpaste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/font/vjs.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/font/vjs.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/font/vjs.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/video-js.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/Uploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/generatorConfig/mybatisGeneratorConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/controller/MyWebSocket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/dao/ContentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/dao/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/entity/Content.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/entity/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/mapping/ContentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/mapping/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/service/ContentService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/service/impl/ContentServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/util/CommonUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/mapper/ContentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/spring/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/spring/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/resources/sql/user.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/jsp/ueditor/controller.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/jsp/ueditor/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/jsp/websocket/websocket.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/nopower.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/redis_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/redis_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/style-batq.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/css/supersized.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/Globals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/jqPaginator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/redis_list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/supersized-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/supersized.3.2.7.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/js/websocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/anchor/anchor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/attachment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/attachment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/attachment/attachment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/background/background.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/background/background.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/background/background.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/chart.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/charts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/charts/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/emotion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/emotion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/emotion/emotion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/gmap/gmap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/help/help.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/help/help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/help/help.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/image.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/image/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/insertframe/insertframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/internal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/link/link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/map/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/map/show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/music/music.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/music/music.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/music/music.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/preview/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/scrawl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/scrawl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/scrawl/scrawl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/searchreplace/searchreplace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/searchreplace/searchreplace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/snapscreen/snapscreen.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/spechars/spechars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/spechars/spechars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/table/edittable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/table/edittable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/table/edittable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/table/edittd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/table/edittip.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/template/template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/video/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/webapp/webapp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/wordimage/tangram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/wordimage/wordimage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/dialogs/wordimage/wordimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/jsp/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/jsp/controller.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/en/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/lang/zh-cn/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/css/ueditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/css/ueditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/default/dialogbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/themes/iframe.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/SyntaxHighlighter/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/codemirror/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/adapters/mootools-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/adapters/prototype-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/adapters/standalone-framework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/highcharts-more.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/highcharts.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/annotations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/annotations.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/canvas-tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/canvas-tools.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/data.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/drilldown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/drilldown.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/exporting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/exporting.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/funnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/funnel.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/heatmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/heatmap.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/map.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/no-data-to-display.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/themes/dark-blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/themes/dark-green.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/themes/gray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/themes/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/highcharts/themes/skies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/jquery-1.10.2.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/font/vjs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/video-js.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/video-js.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/video.dev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/video-js/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.flashonly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.flashonly.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.html5only.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.html5only.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.withoutimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/xss.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/zeroclipboard/ZeroClipboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/ueditor.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/ueditor.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/resources/ueditor/ueditor.parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/turnToIndex.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/webserver_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/webserver_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webserver/pom.xml" afterPath="$PROJECT_DIR$/webserver/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webserver/webserver.iml" afterPath="$PROJECT_DIR$/webserver/webserver.iml" />
+    <list default="true" id="fab5110f-1c88-4f7e-90b4-92efcc4e9c9f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_songxinqiang_com_baidu_ueditor_1_1_2_edit_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_45.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -347,11 +69,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="websocket.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="websocket.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/jsp/websocket/websocket.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
               <caret line="64" column="39" lean-forward="false" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -401,7 +133,6 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/webserver/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/server/controller/MyWebSocket.java" />
         <option value="$PROJECT_DIR$/webserver/src/main/java/com/lqiuqiu/server/service/ContentService.java" />
         <option value="$PROJECT_DIR$/webserver/src/main/generatorConfig/mybatisGeneratorConfig.xml" />
@@ -434,6 +165,7 @@
         <option value="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/webserver/src/main/webapp/WEB-INF/turnToIndex.jsp" />
         <option value="$PROJECT_DIR$/webserver/src/main/webapp/turnToIndex.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -502,90 +234,7 @@
             <path>
               <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
               <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lqiuqiu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lqiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qiuqiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qiuqiu" type="462c0819:PsiDirectoryNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -832,12 +481,20 @@
       <updated>1517730246465</updated>
       <workItem from="1517730248906" duration="6010000" />
       <workItem from="1517737028156" duration="22834000" />
-      <workItem from="1517790785354" duration="324000" />
+      <workItem from="1517790785354" duration="1240000" />
     </task>
+    <task id="LOCAL-00001" summary="websocket">
+      <created>1517791270102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517791270103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29168000" />
+    <option name="totallyTimeSpent" value="30084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -926,13 +583,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webserver/src/main/webapp/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webserver/src/main/webapp/resources/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -985,6 +635,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,6 +666,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1020,6 +674,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,6 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="17" column="40" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1049,6 +705,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1139,6 +796,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,6 +833,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1797">
           <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,6 +949,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="64" column="39" lean-forward="false" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
