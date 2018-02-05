@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="qiuqiu" target="1.5" />
-      <module name="webserver" target="1.5" />
+      <module name="webserver" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
