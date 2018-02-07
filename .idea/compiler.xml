@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spider" />
         <module name="webserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="qiuqiu" target="1.5" />
+      <module name="spider" target="1.6" />
       <module name="webserver" target="1.6" />
     </bytecodeTargetLevel>
   </component>
